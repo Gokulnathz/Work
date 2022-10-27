@@ -1,0 +1,22 @@
+.menu{
+    width:full;
+    height: 70px;
+    background-color: blue;
+    border-bottom: 1px solid rgb(218, 220, 224);
+    box-shadow: rgba(0,0,0,0.06) 0px 4px 4px;
+    color: blue;
+    font-size: 50px;
+    display: flex;
+ 
+}
+.button{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+     display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
